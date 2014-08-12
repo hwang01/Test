@@ -8,7 +8,6 @@
 % arrows during ISI, or, move box from one to another
 % 2014/6/5: Stroop task integrated
 clear;clc
-rng('shuffle');
 % %% get the subject code and write a matlab file
 subjectCode = input('Please enter the subject ID: ','s');
 cd data
